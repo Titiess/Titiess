@@ -28,15 +28,6 @@
 - 💼 [Upwork](https://www.upwork.com/freelancers/~010e59768a75c583c8)
 - 📫 Email: **odanieludo@gmail.com**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Titiess&show_icons=true&theme=radical" alt="Titi's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Titiess&theme=radical" alt="Titi's GitHub streak" />
-</p>
 
 ---
 
